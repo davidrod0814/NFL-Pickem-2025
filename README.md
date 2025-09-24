@@ -3,7 +3,7 @@ Welcome to our NFL Pick'em game! Each week, participants will submit their picks
       📋 Rules
       
 1. Submission Deadline
-        All picks must be submitted before Wednesday.
+   All picks must be submitted before Wednesday.
     	
 2. How to Submit Picks Navigate to the folder for the current week (e.g, Week 4)
         Open the picks.md file and add your picks in the following format:
