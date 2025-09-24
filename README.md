@@ -7,9 +7,9 @@ Welcome to our NFL Pick'em game! Each week, participants will submit their picks
     	
 2. How to Submit Picks      
          Navigate to the folder for the current week (e.g, Week 4)                  
-         Open the picks.md file and add your picks in the following format:
-         David: KC, BUF, DAL, SF, PHI, BAL, CIN, LAR, MIA, GB, TEN, SEA, MIN, JAX      
-         Include a Monday Night Football total score prediction for tiebreakers: MNF Total: 45      
+         Open the picks.md file and add your picks in the following format:      
+         David: KC, BUF, DAL, SF, PHI, BAL, CIN, LAR, MIA, GB, TEN, SEA, MIN, JAX            
+         Include a Monday Night Football total score prediction for tiebreakers: MNF Total: 45            
     	
 4. Scoring      
         1 point per correct pick.
