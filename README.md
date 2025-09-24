@@ -19,7 +19,8 @@ Welcome to our NFL Pick'em game! Each week, participants will submit their picks
         If there's a tie, the total score prediction for Monday Night Football will be used.
         Closest to the actual score wins.
 
-5.Entry Fee & Payment 
+5. Entry Fee & Payment 
+
         Deadline Entry Fee: [$5 per week] 
         Payment Deadline: All payments must be submitted by Wednesday of each week to be eligible for that week's picks.
         If payment is not received by the deadline, picks for that week will not count.
